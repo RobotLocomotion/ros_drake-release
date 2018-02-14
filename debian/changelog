@@ -1,0 +1,15 @@
+ros-kinetic-ros-drake (0.1.2-0xenial) xenial; urgency=high
+
+  * Remove drake from depends. rosdep will not resolve it
+  * Contributors: Jose Luis Rivero
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 14 Feb 2018 08:00:00 -0000
+
+ros-kinetic-ros-drake (0.1.1-0xenial) xenial; urgency=high
+
+  * Initial implementation
+  * Contributors: Jose Luis Rivero
+
+ -- Jose Luis Rivero <jrivero@osrfoundation.org>  Thu, 30 Nov 2017 08:00:00 -0000
+
+
