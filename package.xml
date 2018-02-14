@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>ros_drake</name>
-  <version>0.1.1</version>
+  <version>0.1.2</version>
   <description>
     Provides a cmake config for the DRAKE toolbox http://drake.mit.edu/
   </description>
@@ -10,14 +10,10 @@
 
   <license>Apache 2.0</license>
 
-  <url type="bugtracker">https://github.com/osrf/ros_drake/issues</url>
-  <url type="repository">https://github.com/osrf/ros_drake</url>
+  <url type="bugtracker">https://github.com/RobotLocomotion/ros_drake/issues</url>
+  <url type="repository">https://github.com/RobotLocomotion/ros_drake</url>
 
   <author>Robot Locomotion Group at MIT</author>
 
   <buildtool_depend>catkin</buildtool_depend>
-
-  <build_export_depend>drake</build_export_depend>
-  <exec_depend>drake</exec_depend>
-
 </package>

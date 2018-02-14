@@ -1,8 +1,0 @@
-ros-kinetic-ros-drake (0.1.1-0xenial) xenial; urgency=high
-
-  * Initial implementation
-  * Contributors: Jose Luis Rivero
-
- -- Jose Luis Rivero <jrivero@osrfoundation.org>  Wed, 29 Nov 2017 23:00:00 -0000
-
-
